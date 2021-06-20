@@ -29,12 +29,12 @@
 
 <details>
 <summary>:bulb: Githup İstatistiğim :yum:</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Komi-Shouko&theme=radical" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Komi-Shouko&theme=radical" >
 </details>
 
 <details>
 <summary>:bulb: En çok kullandığım diller </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komi-Shouko&layout=compact" >
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komi-Shouko&layout=compact" >
 </details>
 
 <br />
