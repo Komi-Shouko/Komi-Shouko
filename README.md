@@ -27,6 +27,8 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/mongodb/mongodb.png" width="25" height="25">
 
 
+### Istatistiklerim :yum:
+
 <details>
 <summary>:bulb: Githup İstatistiğim :yum:</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Komi-Shouko&theme=radical" >
