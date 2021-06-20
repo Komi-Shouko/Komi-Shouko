@@ -30,7 +30,7 @@
 ### 😳 
 
 <details>
-<summary>:bulb: Githup İstatistiğim :yum:</summary>
+<summary>:bulb: Github İstatistiğim :yum:</summary>
 <img  src="https://github-readme-stats.vercel.app/api?username=Komi-Shouko&theme=radical" >
 </details>
 
