@@ -47,5 +47,5 @@
 <br />
 
 
-
+                                                                                                                        miosty <3 komi
 
