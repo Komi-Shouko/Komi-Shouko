@@ -47,5 +47,4 @@
 <br />
 
 
-                                                                                                                        ``miosty <3 komi``
-
+### Zehra Codder Olmak Istiyor
